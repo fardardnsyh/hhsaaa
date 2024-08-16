@@ -1,0 +1,10 @@
+Flask
+PyPDF2
+langchain
+genai
+google-generativeai
+flask-cors
+faiss-gpu
+langchain-google-genai
+dotenv
+csv
